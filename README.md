@@ -1,24 +1,5 @@
-# netease-app
+用到的 API
 
-## Project setup
-```
-yarn install
-```
+> banner
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 推荐歌单
